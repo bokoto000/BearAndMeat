@@ -3,3 +3,7 @@ You can run and jump. The bear throws traps and bees at you. Bees deal 5 damage 
 There is one at the platforms and 4 behind the bear. When the bear throws traps at you he roars. 
 if you are too close to the bear, his fire rate doubles
 Arrows to move. Space to Jump. R to reset. Esc to quit
+
+
+
+Please do not move the mouse. The feature is under development
